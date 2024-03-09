@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python-realtime-chat"
+version = "0.1.0"
+description = ""
+authors = ["Kazantsev Artem <me@lokach.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
